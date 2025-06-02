@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "UserName": "user001",
+    "Password": "pass001",
+    "Email": "user001@gmail.com",
+    "Type": "Internal"
+  },
+  {
+    "Id": 2,
+    "UserName": "user002",
+    "Password": "pass002",
+    "Email": "user002@gmail.com",
+    "Type": "Internal"
+  },
+  {
+    "Id": 3,
+    "UserName": "user003",
+    "Password": "pass003",
+    "Email": "user003@gmail.com",
+    "Type": "External"
+  },
+]
